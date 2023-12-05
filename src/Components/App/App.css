@@ -1,0 +1,16 @@
+.divCenter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80vh; 
+  }
+  .inputsContainer {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px; 
+  }
+  
+  .inputInline {
+    margin-right: 10px;
+  }

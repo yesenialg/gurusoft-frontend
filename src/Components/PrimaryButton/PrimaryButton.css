@@ -1,0 +1,13 @@
+.estiloBoton {
+    margin: 10px;
+    background-color: #1F7BDE;
+    color: white;
+    padding: 20px 60px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .estiloIcon {
+    font-size: 50px;
+  }
